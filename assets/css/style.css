@@ -1,0 +1,32 @@
+
+.navbar .changeFont{
+	text-decoration: none;
+	color: white;
+	background-color: #4aaaa5;
+	font-style: bolder;
+	height: 100%;
+	margin: 0;
+}
+
+
+a{
+	color: #777777;
+}
+
+#container{
+height: 100%;
+}
+
+.panel-default2 {
+   position:absolute;
+   bottom:0;
+   width:100%;
+   height:60px;
+   text-align: center;   
+   background: #666;
+}
+
+.panel-footer {
+	background: #666;
+	color: #ccc;
+}
